@@ -1,2 +1,0 @@
-# codic1
- cjdic
