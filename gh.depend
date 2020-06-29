@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593453849 source:c:\users\lexuk\onedrive\Рабочий стол\Новая папка (3)\gh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
